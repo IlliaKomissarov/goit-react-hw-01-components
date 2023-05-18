@@ -1,3 +1,13 @@
+import Profile from './profile/profile';
+
+
+
+import user from '../json/user.json'
+
+
+
+
+
 export const App = () => {
   return (
     <div
